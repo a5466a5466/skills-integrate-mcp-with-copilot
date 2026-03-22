@@ -74,6 +74,18 @@ activities = {
         "schedule": "Fridays, 4:00 PM - 5:30 PM",
         "max_participants": 12,
         "participants": ["charlotte@mergington.edu", "henry@mergington.edu"]
+    },
+    "Music Band": {
+        "description": "Play instruments and perform in school concerts and events",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 25,
+        "participants": ["lucas@mergington.edu", "grace@mergington.edu"]
+    },
+    "Swimming Team": {
+        "description": "Competitive swimming training and inter-school meets",
+        "schedule": "Mondays and Thursdays, 6:00 AM - 7:30 AM",
+        "max_participants": 20,
+        "participants": ["jack@mergington.edu", "zoe@mergington.edu"]
     }
 }
 
